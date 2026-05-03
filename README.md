@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="./sammary.jpg" alt="BahelanBaishan profile" />
+  <img src="./summary.jpg" alt="BahelanBaishan profile" />
 </p>
